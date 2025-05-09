@@ -1,2 +1,2 @@
-# SAD-Project
-This is the system and analysis project for our classes
+# SAD
+This is the system and analysis repository for our course
